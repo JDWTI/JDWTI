@@ -7,6 +7,8 @@
 
 ---
 
+
+
 <h2 align="center">🚀 Linguagens / Tecnologias</h2>
 <div align="center" style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -30,4 +32,9 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-souza-4635b2a1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://gitlab.com/
+
+
+
+
+
+  
